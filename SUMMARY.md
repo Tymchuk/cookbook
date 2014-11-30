@@ -5,8 +5,9 @@
    * [Різотто зі шпинатом](druhi_stravy/rizotto_zi_shpynatom.md)
    * [Рошті](druhi_stravy/roshti.md)
    * [Лазанья](druhi_stravy/lazanya.md)
+   * [Шепард пай](druhi_stravy/shepard_pie.md)
 * [Солодке](solodke/README.md)
    * [Цвібак](solodke/tsvibak.md)
    * [Італійський тарт з полуницями](solodke/italijskyj_tart_z_polunytsyamy.md)
    * [Цукати](solodke/tsukaty.md)
-
+   * [Тірамісу](solodke/tiramisu.md)

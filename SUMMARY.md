@@ -8,4 +8,6 @@
    * [Цвібак](solodke/tsvibak.md)
    * [Італійський тарт з полуницями](solodke/italijskyj_tart_z_polunytsyamy.md)
    * [Цукати](solodke/tsukaty.md)
+* [Напої](napoyi/README.md)
+   * [Ґроґ](napoyi/grog.md)
 

@@ -2,6 +2,7 @@
 
 * [Вступ](README.md)
 * [Салати](salaty/README.md)
+   * З авокадо та помідорчиками чері
 * [Другі страви](druhi_stravy/README.md)
    * [Різотто зі шпинатом](druhi_stravy/rizotto_zi_shpynatom.md)
    * [Рошті](druhi_stravy/roshti.md)
@@ -14,5 +15,4 @@
    * [Тірамісу](solodke/tiramisu.md)
 * [Напої](napoyi/README.md)
    * [Ґроґ](napoyi/grog.md)
-
 

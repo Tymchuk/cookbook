@@ -1,5 +1,7 @@
 {
-    "title": "Кухонна книга Тимчуків";
-    "description": "Рецепти того, що ми готуємо. Юрко та Наталя — Yuriy Tymchuk";
-    "language": "ua"
+    "title": "Кухонна книга Тимчуків",
+    "description": "Рецепти того, що ми готуємо. Юрко та Наталя — Yuriy Tymchuk",
+    "language": "ua",
+    
+    "pdf": { "paperSize": "a5" }
 }

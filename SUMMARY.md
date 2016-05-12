@@ -9,6 +9,7 @@
    * [Лазанья](druhi_stravy/lazanya.md)
    * [Шепард пай](druhi_stravy/shepard_pie.md)
    * [Піца](druhi_stravy/piza.md)
+   * Дольки запеченої картоплі зі спеціями
 * [Солодке](solodke/README.md)
    * [Цвібак](solodke/tsvibak.md)
    * [Італійський тарт з полуницями](solodke/italijskyj_tart_z_polunytsyamy.md)

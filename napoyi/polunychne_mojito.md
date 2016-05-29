@@ -1,6 +1,6 @@
 Полуничне мохіто _[експеримент]_
 ---------
-![](polunуchne_mojito.jpg)
+![](polunychne_mojito.jpg)
 
 ###Інгредієнти:
 

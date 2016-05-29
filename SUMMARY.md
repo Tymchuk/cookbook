@@ -19,4 +19,5 @@
 * [Напої](napoyi/README.md)
    * [Ґроґ](napoyi/grog.md)
    * [Розмаринова краля](napoyi/rozmarнnova_kralya.md)
+   * Полуничне мохіто
 

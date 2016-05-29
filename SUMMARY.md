@@ -17,5 +17,5 @@
    * [Тірамісу](solodke/tiramisu.md)
 * [Напої](napoyi/README.md)
    * [Ґроґ](napoyi/grog.md)
-   * Розмаринова краля
+   * [Розмаринова краля](napoyi/rozmarнnova_kralya.md)
 

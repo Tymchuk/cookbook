@@ -15,7 +15,7 @@
    * [Італійський тарт з полуницями](solodke/italijskyj_tart_z_polunytsyamy.md)
    * [Цукати](solodke/tsukaty.md)
    * [Тірамісу](solodke/tiramisu.md)
-   * Крухий пляцок від бабусі Олі
+   * [Крухий пляцок від бабусі Олі](solodke/kruhyj_plyatsok.md)
 * [Напої](napoyi/README.md)
    * [Ґроґ](napoyi/grog.md)
    * [Розмаринова краля](napoyi/rozmarнnova_kralya.md)

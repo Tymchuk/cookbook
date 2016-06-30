@@ -10,6 +10,7 @@
    * [Шепард пай](druhi_stravy/shepard_pie.md)
    * [Піца](druhi_stravy/piza.md)
    * [Дольки запеченої картоплі зі спеціями](druhi_stravy/dolky_zapechenoyi_kartopl_zi_spetsiyamy.md)
+   * [Паста з авокадо](druhi_stravy/pasta_z_avokado.md)
 * [Солодке](solodke/README.md)
    * [Цвібак](solodke/tsvibak.md)
    * [Італійський тарт з полуницями](solodke/italijskyj_tart_z_polunytsyamy.md)
@@ -20,3 +21,5 @@
    * [Ґроґ](napoyi/grog.md)
    * [Розмаринова краля](napoyi/rozmarнnova_kralya.md)
    * [Полуничне мохіто](napoyi/polunychne_mojito.md)
+* [Корисні поради](korysnі_porady/README.md)
+   * [Приготування пасти](korysnі_porady/pryhotuvannya_pasty.md)

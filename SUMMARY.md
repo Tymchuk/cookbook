@@ -3,6 +3,8 @@
 * [Вступ](README.md)
 * [Салати](salaty/README.md)
    * [З авокадо та помідорчиками чері](salaty/z_avokado_ta_pomidorchykamy_cheri.md)
+* [Перші страви](pershi_stravy/README.md)
+   * [Гарбузова зупа](pershi_stravy/harbuzova_zupa.md)
 * [Другі страви](druhi_stravy/README.md)
    * [Різотто зі шпинатом](druhi_stravy/rizotto_zi_shpynatom.md)
    * [Рошті](druhi_stravy/roshti.md)

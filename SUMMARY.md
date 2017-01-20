@@ -29,6 +29,7 @@
 * [Різдвяне меню](різдвяне-меню.md)
     * [Кутя](1.md)
     * [Узвар](узвар.md)
+    * [Підливка](підливка.md)
 * [Корисні поради](korysnі_porady/README.md)
     * [Приготування пасти](korysnі_porady/pryhotuvannya_pasty.md)
     * [Приготування гречки](korysnі_porady/pryhotuvannya_hrechky.md)

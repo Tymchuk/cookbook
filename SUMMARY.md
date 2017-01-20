@@ -27,7 +27,7 @@
     * [Розмаринова краля](napoyi/rozmarнnova_kralya.md)
     * [Полуничне мохіто](napoyi/polunychne_mojito.md)
 * [Різдвяне меню](різдвяне-меню.md)
-    * [1](1.md)
+    * [Кутя](1.md)
 * [Корисні поради](korysnі_porady/README.md)
     * [Приготування пасти](korysnі_porady/pryhotuvannya_pasty.md)
     * [Приготування гречки](korysnі_porady/pryhotuvannya_hrechky.md)

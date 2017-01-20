@@ -31,6 +31,7 @@
     * [Узвар](узвар.md)
     * [Підливка](підливка.md)
     * [Борщ](борщ.md)
+    * [Тісто на вареники \( в комбайні\)](тісто-на-вареники--в-комбайні.md)
 * [Корисні поради](korysnі_porady/README.md)
     * [Приготування пасти](korysnі_porady/pryhotuvannya_pasty.md)
     * [Приготування гречки](korysnі_porady/pryhotuvannya_hrechky.md)

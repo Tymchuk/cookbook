@@ -17,6 +17,7 @@
     * [М'ясо тушковане в сметані](druhi_stravy/mjaso_v_smetani.md)
     * [Бурачки в сметані](druhi_stravy/burachky_v_smetani.md)
     * [Запечена полядвиця з овочами](druhi_stravy/запечена-полядвиця-з-овочами.md)
+    * [Печений лосось](druhi_stravy/печений-лосось.md)
 * [Солодке](solodke/README.md)
     * [Цвібак](solodke/tsvibak.md)
     * [Італійський тарт з полуницями](solodke/italijskyj_tart_z_polunytsyamy.md)

@@ -30,5 +30,5 @@
     * [Приготування пасти](korysnі_porady/pryhotuvannya_pasty.md)
     * [Приготування гречки](korysnі_porady/pryhotuvannya_hrechky.md)
 * [Різдвяне меню](різдвяне-меню.md)
-* Кутя
+* [Кутя](кутя.md)
 
